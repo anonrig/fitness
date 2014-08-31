@@ -1,0 +1,46 @@
+<?php
+
+/**
+ * Utility class to connect to and manage the DB
+ */
+
+class DBHelper {
+	private $username = "ynizipli_fitness";
+
+	private $password = "4561230";
+
+	private $host = "174.120.151.187";
+	
+	private $port = 3306;
+
+	private $dbname = "ynizipli_fitness";
+
+	private $connection = null;
+
+	public function connect() {
+		$this -> connection = mysqli_connect($this -> host, $this -> username, $this -> password, $this -> dbname, $this->port);
+
+		if (mysqli_connect_errno($this -> connection)) {
+			throw new RuntimeException("Failed to connect to MySQL: " . mysqli_connect_error());
+		}
+	}
+
+	public function disconnect() {
+		mysqli_close($this -> connection);
+	}
+
+	public function query($query) {
+		if ($this->connection == null){
+			$this->connect();
+		}
+		$result = mysqli_query($this -> connection, $query);
+		$resultArray = mysqli_fetch_array($result);
+		$this->disconnect();
+		if (isset($resultArray)) {
+			throw new RuntimeException("Error executing the query " . $query . " - " . mysqli_error($this -> connection));
+		} else {
+			return $resultArray;
+		}
+	}
+
+}

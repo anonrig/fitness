@@ -1,0 +1,18 @@
+RELEASE NOTES fitness.desigyn.com
+=============
+
+A lot of effort has been dedicated to provide a secure user authentication (with salted SHA1 hashed passwords), an "almost" REST interface to the backend/API (request's failure is handled using standard HTTP status codes) and a beautiful frontend with responsive CSS and ajax capabilities. The backend releases most of the results in a JSON format (easily parsable in Javascript). The whole backend works in an object oriented way (each user is represented by the related class User, each program by the class FitnessProgram etc.) and objects are created on the fly, by querying the database and building the object's attribute from the result, every time it becomes necessary to manipulate some data in them. Each class provides the instance method save() to serialize that object into the database (thanks to the database connector DBHelper).
+
+Changelog Release 0.1
+
+Front-end
+    - User authentication using AJAX
+    - The user can access his profile
+    - The user can access the entire user base
+    - The user can access each user's profile
+    - The user can register a new profile/account
+    - Modified template to provide beautiful graphics and layout
+    
+Back-end
+    - User can: be created, authenticate, deauthenticate, delete his profile
+    - User can: create a fitness program, add exercises, delete a fitness program, get all the fitness programs

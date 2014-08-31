@@ -1,0 +1,64 @@
+[01-Jun-2013 18:59:53 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 6
+[01-Jun-2013 18:59:59 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 6
+[01-Jun-2013 19:00:39 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 6
+[01-Jun-2013 19:01:00 America/Chicago] PHP Warning:  require_once(./func.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 2
+[01-Jun-2013 19:01:00 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './func.php' (include_path='.:/opt/php53/lib/php') in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 2
+[01-Jun-2013 19:01:09 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:11 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:12 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:13 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:13 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:13 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:13 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:14 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:14 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:14 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:14 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:14 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:14 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:15 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:15 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:01:15 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:14 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:16 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:17 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:17 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:18 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:18 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:18 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:18 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:18 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:18 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:19 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:19 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:19 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:19 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:19 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:03:19 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:04:07 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:04:09 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:04:10 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:04:11 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:04:11 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:04:11 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:04:19 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:04:22 America/Chicago] PHP Fatal error:  Class 'User' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/users.php on line 7
+[01-Jun-2013 19:22:34 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/ynizipli/public_html/desigyn.com/fitness/func/FitnessProgram.php on line 126
+[01-Jun-2013 19:22:49 America/Chicago] PHP Fatal error:  Class 'FitnessProgram' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/comments.php on line 7
+[01-Jun-2013 20:44:49 America/Chicago] PHP Fatal error:  Call to undefined method FitnessProgram::getAdminCommentById() in /home/ynizipli/public_html/desigyn.com/fitness/admin/edit.php on line 186
+[02-Jun-2013 08:39:12 America/Chicago] PHP Fatal error:  Call to undefined method FitnessProgram::getDetail() in /home/ynizipli/public_html/desigyn.com/fitness/admin/edit.php on line 220
+[02-Jun-2013 08:39:57 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/ynizipli/public_html/desigyn.com/fitness/admin/edit.php on line 214
+[02-Jun-2013 10:23:53 America/Chicago] PHP Fatal error:  Call to a member function getName() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 105
+[02-Jun-2013 13:42:19 America/Chicago] PHP Fatal error:  Call to a member function retrieveExercises() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/func/FitnessProgram.php on line 354
+[02-Jun-2013 13:45:05 America/Chicago] PHP Fatal error:  Class 'FitnessProgram' not found in /home/ynizipli/public_html/desigyn.com/fitness/admin/edit.php on line 213
+[03-Jun-2013 21:11:12 America/Chicago] PHP Fatal error:  Call to a member function getName() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 105
+[03-Jun-2013 22:51:33 America/Chicago] PHP Fatal error:  Call to a member function getName() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 109
+[03-Jun-2013 23:15:20 America/Chicago] PHP Fatal error:  Call to a member function isAdmin() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 10
+[03-Jun-2013 23:15:34 America/Chicago] PHP Fatal error:  Call to a member function getName() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 109
+[04-Jun-2013 02:46:55 America/Chicago] PHP Fatal error:  Call to a member function getName() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 109
+[04-Jun-2013 02:47:05 America/Chicago] PHP Fatal error:  Call to a member function getName() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 109
+[05-Jun-2013 02:58:46 America/Chicago] PHP Fatal error:  Call to a member function isAdmin() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 10
+[06-Jun-2013 17:34:48 America/Chicago] PHP Fatal error:  Call to a member function isAdmin() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 10
+[10-Jun-2013 05:56:00 America/Chicago] PHP Fatal error:  Call to a member function isAdmin() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 10
+[14-Jun-2013 14:17:52 America/Chicago] PHP Fatal error:  Call to a member function isAdmin() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 10
+[18-Jun-2013 02:32:25 America/Chicago] PHP Fatal error:  Call to a member function isAdmin() on a non-object in /home/ynizipli/public_html/desigyn.com/fitness/admin/index.php on line 10

@@ -1,0 +1,140 @@
+/* 
+    Document   : REDCSC
+    Created on : 2012-10-31, 15:44:41
+    Author     : Dany Duchaine
+    Description:
+        Red Color Scheme
+        */
+
+
+        /* Page Background Color */
+
+        #carousel .flex-viewport,
+        .pageContentWrapper,
+        .homeWidgetModule,
+        .pageWidgetModule
+        {
+            background: #e4e8ee;
+        }
+
+        /* Links Color */
+
+        a, a:visited {  color: #26a77b; }
+        a:hover, a:focus { color: #1b7a5a; }
+
+
+        /* Buttons Color */
+
+        .button-small-theme { background: #d74340 !important; }
+        .openingHoursClose, .loginClose:hover, .contactClose:hover, .notificationsClose:hover, .profileClose:hover {background: #d74340 !important;}
+        /* Accent color */
+
+        a, a:visited {  color: #26a77b; }
+        a:hover, a:focus { color: #1b7a5a; }
+
+
+        .button-small-theme { background: #d74340 !important; }
+
+        .footerModule h2, 
+        .mainNav .active, 
+        .mainNav li a:hover, 
+        .flex-active-slide .navDescription, 
+        .pageInfo, 
+        .special li,
+        .pricing .price,
+        .special .description,
+        .postThumbDate,
+        .widget span a:hover,
+        .difficultyLevel
+        {
+            background: #d74340;
+        }
+        .footerModule h3, 
+        .slidesDescription, 
+        .pricing li,
+        .widget h3,
+        .classesInfo,
+        .contactForm,
+        .loginForm,
+        .profileModule .footerModule,
+        .notificationsModule .footerModule,
+        .indexwidget
+        {
+            border-left: 5px solid #d74340;
+        }
+        .extable h3{
+            border-left: 5px solid #D59340;
+        }
+        .pricingTable .special .title {
+         background: url(../../images/pricingBg.png) #d74340 top right no-repeat !important;
+     }
+     blockquote {
+        border-left: 3px solid #d74340;
+    }
+    .topBarActive {
+        background-color: #d74340 !important;
+        border-bottom: 1px solid #d74340;
+    }
+    .contact:hover {
+       background: url(../../images/mailIconLight.png) no-repeat 19px 16px #d74340;
+       border-bottom: 1px solid #d74340;
+   }
+   .openingHours:hover {
+    background: url(../../images/key_icon.png) no-repeat 19px 14px #d74340;
+    border-bottom: 1px solid #d74340;
+}
+
+.notifications:hover {
+    background: url(../../images/comment-icon.png) no-repeat 11px 14px #d74340;
+    border-bottom: 1px solid #d74340;
+}
+.male:hover {
+    background: url(../../images/male_icon.png) no-repeat 19px 14px #d74340 !important;
+    border-bottom: 1px solid #d74340;
+}
+.adminmodule:hover{
+    background: url(../../images/admin_icon.png) no-repeat 19px 14px #d74340 !important;
+    border-bottom: 1px solid #d74340;
+}
+.female:hover {
+    background: url(../../images/female_icon.png) no-repeat 19px 14px #d74340 !important;
+    border-bottom: 1px solid #d74340;
+}
+.register:hover {
+    background: url(../../images/dumbbell_icon.png) no-repeat 16px 13px #d74340;
+    border-bottom: 1px solid #d74340;
+}
+.face_login:hover  {
+    background: url(../../images/facebook_icon.png) no-repeat 19px 14px #d74340;
+    border-bottom: 1px solid #d74340;
+    color:#FFFFFF;
+    text-shadow:none;
+}
+.profileListItem:hover, .notificationsListItem:hover  {
+    color:#FFFFFF;
+    text-shadow:none;
+}
+.notificationsListItem:hover{
+    background: #d74340;
+}
+.adminmodule:hover{
+    background: #d74340;
+    color:white;
+    text-shadow:none;
+}
+#profileLinkFirst:hover{
+    background: url(../../images/profile.png) no-repeat 16px 13px #d74340;
+}
+#profileLinkSecond:hover{
+    background: url(../../images/exit.png) no-repeat 16px 13px #d74340;
+}
+#profileLinkThird:hover{
+    background: url(../../images/program.png) no-repeat 16px 13px #d74340;
+}
+.mainNav li a:hover {
+    border-right: 1px solid #d74340;
+}
+.singleThumb img, .postThumb {
+    border-bottom: 5px solid #d74340;
+}
+.special .title {  background: url(../../images/pricingBg.png) #d74340 top right no-repeat;}

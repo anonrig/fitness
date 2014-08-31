@@ -1,0 +1,327 @@
+/*  Font Awesome
+    the iconic font designed for use with Twitter Bootstrap
+    -------------------------------------------------------
+    The full suite of pictographic icons, examples, and documentation
+    can be found at: http://fortawesome.github.com/Font-Awesome/
+
+    License
+    -------------------------------------------------------
+    The Font Awesome webfont, CSS, and LESS files are licensed under CC BY 3.0:
+    http://creativecommons.org/licenses/by/3.0/ A mention of
+    'Font Awesome - http://fortawesome.github.com/Font-Awesome' in human-readable
+    source code is considered acceptable attribution (most common on the web).
+    If human readable source code is not available to the end user, a mention in
+    an 'About' or 'Credits' screen is considered acceptable (most common in desktop
+    or mobile software).
+
+    Contact
+    -------------------------------------------------------
+    Email: dave@davegandy.com
+    Twitter: http://twitter.com/fortaweso_me
+    Work: Lead Product Designer @ http://kyruus.com
+
+    */
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('@{fontAwesomePath}/fontawesome-webfont.eot');
+  src: url('@{fontAwesomePath}/fontawesome-webfont.eot?#iefix') format('embedded-opentype'),
+    url('@{fontAwesomePath}/fontawesome-webfont.woff') format('woff'),
+    url('@{fontAwesomePath}/fontawesome-webfont.ttf') format('truetype'),
+    url('@{fontAwesomePath}/fontawesome-webfont.svg#FontAwesome') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*  Font Awesome styles
+    ------------------------------------------------------- */
+[class^="awe-"]:before,
+[class*=" awe-"]:before {
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
+  text-decoration: inherit;
+}
+
+a [class^="awe-"],
+a [class*=" awe-"] {
+  display: inline-block;
+  text-decoration: inherit;
+}
+
+/* makes the font 33% larger relative to the icon container */
+.awe-large:before {
+  vertical-align: middle;
+  font-size: 4/3em;
+}
+
+.btn, .nav-tabs {
+  [class^="awe-"],
+  [class*=" awe-"] {
+  /* keeps button heights with and without icons the same */
+    line-height: .9em;
+  }
+}
+
+li {
+  [class^="awe-"],
+  [class*=" awe-"] {
+    display: inline-block;
+    width: 1.25em;
+    text-align: center;
+  }
+  .awe-large:before,
+  .awe-large:before {
+    /* 1.5 increased font size for awe-large * 1.25 width */
+    width: 1.5*1.25em;
+  }
+}
+
+ul.icons {
+  list-style-type: none;
+  margin-left: 2em;
+  text-indent: -.8em;
+
+  li {
+    [class^="awe-"],
+    [class*=" awe-"] {
+      width: .8em;
+    }
+    .awe-large:before,
+    .awe-large:before {
+      /* 1.5 increased font size for awe-large * 1.25 width */
+      vertical-align: initial;
+//      width: 1.5*1.25em;
+    }
+  }
+}
+
+/*  Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+    readers do not read off random characters that represent icons */
+.awe-glass:before                { content: "\f000"; }
+.awe-music:before                { content: "\f001"; }
+.awe-search:before               { content: "\f002"; }
+.awe-envelope:before             { content: "\f003"; }
+.awe-heart:before                { content: "\f004"; }
+.awe-star:before                 { content: "\f005"; }
+.awe-star-empty:before           { content: "\f006"; }
+.awe-user:before                 { content: "\f007"; }
+.awe-film:before                 { content: "\f008"; }
+.awe-th-large:before             { content: "\f009"; }
+.awe-th:before                   { content: "\f00a"; }
+.awe-th-list:before              { content: "\f00b"; }
+.awe-ok:before                   { content: "\f00c"; }
+.awe-remove:before               { content: "\f00d"; }
+.awe-zoom-in:before              { content: "\f00e"; }
+
+.awe-zoom-out:before             { content: "\f010"; }
+.awe-off:before                  { content: "\f011"; }
+.awe-signal:before               { content: "\f012"; }
+.awe-cog:before                  { content: "\f013"; }
+.awe-trash:before                { content: "\f014"; }
+.awe-home:before                 { content: "\f015"; }
+.awe-file:before                 { content: "\f016"; }
+.awe-time:before                 { content: "\f017"; }
+.awe-road:before                 { content: "\f018"; }
+.awe-download-alt:before         { content: "\f019"; }
+.awe-download:before             { content: "\f01a"; }
+.awe-upload:before               { content: "\f01b"; }
+.awe-inbox:before                { content: "\f01c"; }
+.awe-play-circle:before          { content: "\f01d"; }
+.awe-repeat:before               { content: "\f01e"; }
+
+/* \f020 doesn't work in Safari. all shifted one down */
+.awe-refresh:before              { content: "\f021"; }
+.awe-list-alt:before             { content: "\f022"; }
+.awe-lock:before                 { content: "\f023"; }
+.awe-flag:before                 { content: "\f024"; }
+.awe-headphones:before           { content: "\f025"; }
+.awe-volume-off:before           { content: "\f026"; }
+.awe-volume-down:before          { content: "\f027"; }
+.awe-volume-up:before            { content: "\f028"; }
+.awe-qrcode:before               { content: "\f029"; }
+.awe-barcode:before              { content: "\f02a"; }
+.awe-tag:before                  { content: "\f02b"; }
+.awe-tags:before                 { content: "\f02c"; }
+.awe-book:before                 { content: "\f02d"; }
+.awe-bookmark:before             { content: "\f02e"; }
+.awe-print:before                { content: "\f02f"; }
+
+.awe-camera:before               { content: "\f030"; }
+.awe-font:before                 { content: "\f031"; }
+.awe-bold:before                 { content: "\f032"; }
+.awe-italic:before               { content: "\f033"; }
+.awe-text-height:before          { content: "\f034"; }
+.awe-text-width:before           { content: "\f035"; }
+.awe-align-left:before           { content: "\f036"; }
+.awe-align-center:before         { content: "\f037"; }
+.awe-align-right:before          { content: "\f038"; }
+.awe-align-justify:before        { content: "\f039"; }
+.awe-list:before                 { content: "\f03a"; }
+.awe-indent-left:before          { content: "\f03b"; }
+.awe-indent-right:before         { content: "\f03c"; }
+.awe-facetime-video:before       { content: "\f03d"; }
+.awe-picture:before              { content: "\f03e"; }
+
+.awe-pencil:before               { content: "\f040"; }
+.awe-map-marker:before           { content: "\f041"; }
+.awe-adjust:before               { content: "\f042"; }
+.awe-tint:before                 { content: "\f043"; }
+.awe-edit:before                 { content: "\f044"; }
+.awe-share:before                { content: "\f045"; }
+.awe-check:before                { content: "\f046"; }
+.awe-move:before                 { content: "\f047"; }
+.awe-step-backward:before        { content: "\f048"; }
+.awe-fast-backward:before        { content: "\f049"; }
+.awe-backward:before             { content: "\f04a"; }
+.awe-play:before                 { content: "\f04b"; }
+.awe-pause:before                { content: "\f04c"; }
+.awe-stop:before                 { content: "\f04d"; }
+.awe-forward:before              { content: "\f04e"; }
+
+.awe-fast-forward:before         { content: "\f050"; }
+.awe-step-forward:before         { content: "\f051"; }
+.awe-eject:before                { content: "\f052"; }
+.awe-chevron-left:before         { content: "\f053"; }
+.awe-chevron-right:before        { content: "\f054"; }
+.awe-plus-sign:before            { content: "\f055"; }
+.awe-minus-sign:before           { content: "\f056"; }
+.awe-remove-sign:before          { content: "\f057"; }
+.awe-ok-sign:before              { content: "\f058"; }
+.awe-question-sign:before        { content: "\f059"; }
+.awe-info-sign:before            { content: "\f05a"; }
+.awe-screenshot:before           { content: "\f05b"; }
+.awe-remove-circle:before        { content: "\f05c"; }
+.awe-ok-circle:before            { content: "\f05d"; }
+.awe-ban-circle:before           { content: "\f05e"; }
+
+.awe-arrow-left:before           { content: "\f060"; }
+.awe-arrow-right:before          { content: "\f061"; }
+.awe-arrow-up:before             { content: "\f062"; }
+.awe-arrow-down:before           { content: "\f063"; }
+.awe-share-alt:before            { content: "\f064"; }
+.awe-resize-full:before          { content: "\f065"; }
+.awe-resize-small:before         { content: "\f066"; }
+.awe-plus:before                 { content: "\f067"; }
+.awe-minus:before                { content: "\f068"; }
+.awe-asterisk:before             { content: "\f069"; }
+.awe-exclamation-sign:before     { content: "\f06a"; }
+.awe-gift:before                 { content: "\f06b"; }
+.awe-leaf:before                 { content: "\f06c"; }
+.awe-fire:before                 { content: "\f06d"; }
+.awe-eye-open:before             { content: "\f06e"; }
+
+.awe-eye-close:before            { content: "\f070"; }
+.awe-warning-sign:before         { content: "\f071"; }
+.awe-plane:before                { content: "\f072"; }
+.awe-calendar:before             { content: "\f073"; }
+.awe-random:before               { content: "\f074"; }
+.awe-comment:before              { content: "\f075"; }
+.awe-magnet:before               { content: "\f076"; }
+.awe-chevron-up:before           { content: "\f077"; }
+.awe-chevron-down:before         { content: "\f078"; }
+.awe-retweet:before              { content: "\f079"; }
+.awe-shopping-cart:before        { content: "\f07a"; }
+.awe-folder-close:before         { content: "\f07b"; }
+.awe-folder-open:before          { content: "\f07c"; }
+.awe-resize-vertical:before      { content: "\f07d"; }
+.awe-resize-horizontal:before    { content: "\f07e"; }
+
+.awe-bar-chart:before            { content: "\f080"; }
+.awe-twitter-sign:before         { content: "\f081"; }
+.awe-facebook-sign:before        { content: "\f082"; }
+.awe-camera-retro:before         { content: "\f083"; }
+.awe-key:before                  { content: "\f084"; }
+.awe-cogs:before                 { content: "\f085"; }
+.awe-comments:before             { content: "\f086"; }
+.awe-thumbs-up:before            { content: "\f087"; }
+.awe-thumbs-down:before          { content: "\f088"; }
+.awe-star-half:before            { content: "\f089"; }
+.awe-heart-empty:before          { content: "\f08a"; }
+.awe-signout:before              { content: "\f08b"; }
+.awe-linkedin-sign:before        { content: "\f08c"; }
+.awe-pushpin:before              { content: "\f08d"; }
+.awe-external-link:before        { content: "\f08e"; }
+
+.awe-signin:before               { content: "\f090"; }
+.awe-trophy:before               { content: "\f091"; }
+.awe-github-sign:before          { content: "\f092"; }
+.awe-upload-alt:before           { content: "\f093"; }
+.awe-lemon:before                { content: "\f094"; }
+.awe-phone:before                { content: "\f095"; }
+.awe-check-empty:before          { content: "\f096"; }
+.awe-bookmark-empty:before       { content: "\f097"; }
+.awe-phone-sign:before           { content: "\f098"; }
+.awe-twitter:before              { content: "\f099"; }
+.awe-facebook:before             { content: "\f09a"; }
+.awe-github:before               { content: "\f09b"; }
+.awe-unlock:before               { content: "\f09c"; }
+.awe-credit-card:before          { content: "\f09d"; }
+.awe-rss:before                  { content: "\f09e"; }
+
+.awe-hdd:before                  { content: "\f0a0"; }
+.awe-bullhorn:before             { content: "\f0a1"; }
+.awe-bell:before                 { content: "\f0a2"; }
+.awe-certificate:before          { content: "\f0a3"; }
+.awe-hand-right:before           { content: "\f0a4"; }
+.awe-hand-left:before            { content: "\f0a5"; }
+.awe-hand-up:before              { content: "\f0a6"; }
+.awe-hand-down:before            { content: "\f0a7"; }
+.awe-circle-arrow-left:before    { content: "\f0a8"; }
+.awe-circle-arrow-right:before   { content: "\f0a9"; }
+.awe-circle-arrow-up:before      { content: "\f0aa"; }
+.awe-circle-arrow-down:before    { content: "\f0ab"; }
+.awe-globe:before                { content: "\f0ac"; }
+.awe-wrench:before               { content: "\f0ad"; }
+.awe-tasks:before                { content: "\f0ae"; }
+
+.awe-filter:before               { content: "\f0b0"; }
+.awe-briefcase:before            { content: "\f0b1"; }
+.awe-fullscreen:before           { content: "\f0b2"; }
+
+.awe-group:before                { content: "\f0c0"; }
+.awe-link:before                 { content: "\f0c1"; }
+.awe-cloud:before                { content: "\f0c2"; }
+.awe-beaker:before               { content: "\f0c3"; }
+.awe-cut:before                  { content: "\f0c4"; }
+.awe-copy:before                 { content: "\f0c5"; }
+.awe-paper-clip:before           { content: "\f0c6"; }
+.awe-save:before                 { content: "\f0c7"; }
+.awe-sign-blank:before           { content: "\f0c8"; }
+.awe-reorder:before              { content: "\f0c9"; }
+.awe-list-ul:before              { content: "\f0ca"; }
+.awe-list-ol:before              { content: "\f0cb"; }
+.awe-strikethrough:before        { content: "\f0cc"; }
+.awe-underline:before            { content: "\f0cd"; }
+.awe-table:before                { content: "\f0ce"; }
+
+.awe-magic:before                { content: "\f0d0"; }
+.awe-truck:before                { content: "\f0d1"; }
+.awe-pinterest:before            { content: "\f0d2"; }
+.awe-pinterest-sign:before       { content: "\f0d3"; }
+.awe-google-plus-sign:before     { content: "\f0d4"; }
+.awe-google-plus:before          { content: "\f0d5"; }
+.awe-money:before                { content: "\f0d6"; }
+.awe-caret-down:before           { content: "\f0d7"; }
+.awe-caret-up:before             { content: "\f0d8"; }
+.awe-caret-left:before           { content: "\f0d9"; }
+.awe-caret-right:before          { content: "\f0da"; }
+.awe-columns:before              { content: "\f0db"; }
+.awe-sort:before                 { content: "\f0dc"; }
+.awe-sort-down:before            { content: "\f0dd"; }
+.awe-sort-up:before              { content: "\f0de"; }
+
+.awe-envelope-alt:before         { content: "\f0e0"; }
+.awe-linkedin:before             { content: "\f0e1"; }
+.awe-undo:before                 { content: "\f0e2"; }
+.awe-legal:before                { content: "\f0e3"; }
+.awe-dashboard:before            { content: "\f0e4"; }
+.awe-comment-alt:before          { content: "\f0e5"; }
+.awe-comments-alt:before         { content: "\f0e6"; }
+.awe-bolt:before                 { content: "\f0e7"; }
+.awe-sitemap:before              { content: "\f0e8"; }
+.awe-umbrella:before             { content: "\f0e9"; }
+.awe-paste:before                { content: "\f0ea"; }
+
+.awe-user-md:before              { content: "\f200"; }

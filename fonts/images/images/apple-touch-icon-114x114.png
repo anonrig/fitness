@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+    <head>
+
+        <meta name="viewport" content="user-scalable=no,initial-scale=1.0, maximum-scale=1.0 width=device-width" />
+        <!-- Basic Page Needs
+  ================================================== -->
+        <meta charset="utf-8">
+        
+	<title>
+		   Not Found - DanyDuchaine.com	</title>
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <!-- Mobile Specific Metas
+  ================================================== -->
+ 
+
+        <!-- CSS
+  ================================================== -->
+
+        <link href="../../../../../../../wp-content/themes/EnergizedWP101/stylesheets/btn.css" rel="stylesheet">
+        <link href="../../../../../../../wp-content/themes/EnergizedWP101/stylesheets/prettyPhoto.css" rel="stylesheet">
+        <link href="../../../../../../../wp-content/themes/EnergizedWP101/stylesheets/base.css" rel="stylesheet">
+        <link href="../../../../../../../wp-content/themes/EnergizedWP101/stylesheets/ei-slider.css" rel="stylesheet">
+        <link href="../../../../../../../wp-content/themes/EnergizedWP101/stylesheets/skeleton.css" rel="stylesheet">
+        <link href="../../../../../../../wp-content/themes/EnergizedWP101/stylesheets/camera.css" rel="stylesheet">
+        <link href="../../../../../../../wp-content/themes/EnergizedWP101/stylesheets/superfish.css" rel="stylesheet">
+         <link href="../../../../../../../wp-content/themes/EnergizedWP101/stylesheets/flexslider.css" rel="stylesheet">
+        
+        <link rel="stylesheet" href="../../../../../../../wp-content/themes/EnergizedWP101/style.css" type="text/css" media="screen" />
+        
+
+
+        <!-- Google Fonts
+  ================================================== -->
+
+        <link href='../../../../../../../../fonts.googleapis.com/css@family=Open+Sans_3A300italic,400,800,300' rel='stylesheet' type='text/css'>
+        <link href='../../../../../../../../fonts.googleapis.com/css@family=Noticia+Text_3A400,400italic' rel='stylesheet' type='text/css'>
+         <link href='../../../../../../../../fonts.googleapis.com/css@family=IM+Fell+DW+Pica+SC' rel='stylesheet' type='text/css'>
+        <!--[if lt IE 9]>
+                <script src="../../../../../../../../html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <!-- Favicons
+        ================================================== -->
+        <link rel="shortcut icon" href="images/favicon.ico">
+        <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+        <!-- Atoms & Pingback
+        ================================================== -->
+
+        <link rel="alternate" type="application/rss+xml" title="DanyDuchaine.com RSS Feed" href="../../../../../../../feed/default.htm" />
+        <link rel="alternate" type="text/xml" title="RSS .92" href="../../../../../../../feed/rss/default.htm" />
+        <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../../../../../../feed/atom/default.htm" />
+        <link rel="pingback" href="http://danyduchaine.com/xmlrpc.php" />
+
+        <!-- Theme Hook -->
+    
+        <link rel="alternate" type="application/rss+xml" title="DanyDuchaine.com &raquo; Feed" href="../../../../../../../feed/default.htm" />
+<link rel="alternate" type="application/rss+xml" title="DanyDuchaine.com &raquo; Comments Feed" href="../../../../../../../comments/feed/default.htm" />
+<link rel='stylesheet' id='static-toolbar-css-css'  href='../../../../../../../wp-content/plugins/notification-toolbar/static-toolbar.css@ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='authorhq_style-css'  href='../../../../../../../wp-content/plugins/authorhq/views/front_end/assets/css/core.css@ver=1.1.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='authorhq_0_forum-css'  href='../../../../../../../wp-content/themes/EnergizedWP101/authorhq/front_end/forum/assets/css/forum.css@ver=1.1.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='envato-marketplace-items-css'  href='../../../../../../../wp-content/plugins/envato-marketplace-items/marketplace.css@ver=1.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='../../../../../../../wp-includes/js/jquery/jquery.js@ver=1.7.1'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/plugins/notification-toolbar/static-toolbar.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/plugins/notification-toolbar/jquery.corner.js@ver=3.3.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ahq_global_vars = {"site_url":"../../../../../../../default.htm","please_wait":"Please wait..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../../../../wp-content/plugins/authorhq/views/front_end/assets/js/ahq.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/plugins/authorhq/views/front_end/assets/js/jquery.snippet.min.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/plugins/authorhq/views/front_end/assets/js/jquery.scrollTo-1.4.2-min.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/plugins/authorhq/views/front_end/forum/assets/js/forum.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/script.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/dribbble.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/jquery.mobile.customized.min.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/camera.min.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/tabs.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/bootstrap-alert.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/twitter.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/jquery.prettyPhoto.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/jquery.eislideshow.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/jquery.easing.1.3.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/superfish.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/jquery.flexslider.js@ver=3.3.2'></script>
+<script type='text/javascript' src='../../../../../../../wp-content/themes/EnergizedWP101/js/bootstrap-tooltip.js@ver=3.3.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://danyduchaine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../../../../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.2" />
+		<style type="text/css">
+					div#static-toolbar{
+		opacity: .90;	
+		-moz-opacity:0.90;
+		filter : alpha(opacity=90); 
+		}	
+				div#static-toolbar li, div#static-toolbar a, 
+		div#static-toolbar li#static-toolbar-social-network div#static-toolbar-social-network-panel p,
+		div#static-toolbar li#static-toolbar-share div#static-toolbar-share-panel p{ color:#d9c9c9; }
+		div#static-toolbar ul#static-toolbar-blocs,
+		div#static-toolbar li#static-toolbar-share div#static-toolbar-share-panel,
+		div#static-toolbar li#static-toolbar-social-network div#static-toolbar-social-network-panel{ background-color:#215B87}
+
+		</style>
+		
+    
+        <style>
+            
+        
+body {
+background: url()   center top #f5f5f5;
+}
+
+.boxed {
+background: url()    #ffffff;
+}
+
+@media only screen and (max-width: 767px) {
+body {
+background: url()     !important;
+}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {  
+body {
+background: url()     !important;
+}
+}
+        
+        .widget_portfolio_item .title {
+
+border-top: 2px solid #2184AB;
+}
+
+a, a:visited { color: #333; text-decoration: underline; outline: 0; }
+
+/* --
+
+Links  Color
+
+-- */
+
+a, a:visited { color: #333; text-decoration: underline; outline: 0; }
+
+    
+    a, a:visited  { color: #2184AB; text-decoration: underline; outline: 0; }
+     .tagline a { color: #2184AB; text-decoration: none; outline: 0; }
+    
+    
+    
+    a:hover, a:focus, .tagline a:hover, .tagline a:focus { color: #2184AB; }
+
+   
+
+
+/* --
+
+Portfolio  Color
+
+-- */
+
+
+
+    .portfolio_cats a, .pagination a, .portfolio_previous a, .portfolio_next a   {
+    background:  #2184AB;
+    }    
+    
+
+/* --
+
+Blog Module Color
+
+-- */
+
+
+.article-date a {
+color: #2184AB;
+
+}
+
+
+    .blog-button {
+    background:  #2184AB;
+    }    
+    
+    .article-date a {
+color: #2184AB;
+
+}
+
+
+/* --
+
+Top Border Color
+
+-- */
+
+
+    header {
+    border-top:  2px solid #2184AB;
+    }    
+
+
+/* --
+
+Intro Text Border Color
+
+-- */
+
+
+    .tagline h4 {
+    border-left: 2px solid #2184AB;
+    }
+    .tagline a {
+    border-bottom: 1px dotted #2184AB;
+    }
+
+
+/* --
+
+Main Menu Border Color
+
+-- */
+
+
+    .main ul .current-menu-item a, .main ul li a:hover, .current_page_item a, .hover {
+    border-top: 2px solid #2184AB;
+    }
+
+
+
+
+/* --
+
+Headings Border Color
+
+-- */
+
+
+    h2, h3, h4, h5, h6, .portfolio_item_title  {
+    border-top: 2px solid #2184AB;
+    }
+
+
+    
+    /* --
+
+Slider Color
+
+-- */
+
+
+    
+    .ei-slider-thumbs li.ei-slider-element, .ei-title, .zuperSlider .caption1, .flex-control-paging li a.active, .flex-caption {
+background:  #2184AB;
+}
+
+.camera_prevThumbs, .camera_nextThumbs, .camera_prev, .camera_next, .camera_commands, .camera_thumbs_cont,.camera_caption > div  {
+     background-color: #2184AB !important;
+}
+
+
+
+
+        
+        </style>
+        
+   <!--[if IE 8]>
+<style type="text/css">
+   
+   .button-big, .button-small, .portfolio_cats a, .pagination a, .pagination .current, .portfolio_previous a, .portfolio_next a  { color: #fff !important; }
+   .main ul li a .description { font-size: 12px; }
+   
+</style>
+<![endif]-->
+   
+    <!--[if IE 7]>
+<style type="text/css">
+   
+	 .button-big, .button-small, .portfolio_cats a, .pagination a, .pagination .current, .portfolio_previous a, .portfolio_next a  { color: #fff !important; }
+   .main ul li a .description { font-size: 12px; }
+    
+   }
+   
+</style>
+<![endif]-->
+    
+     <!--[if IE 6]>
+<style type="text/css">
+   
+	 .button-big, .button-small, .portfolio_cats a, .pagination a, .pagination .current, .portfolio_previous a, .portfolio_next a  { color: #fff !important; }
+   .main ul li a .description { font-size: 12px; }
+   }
+   
+</style>
+<![endif]-->
+
+    </head>
+
+    <body data-spy="scroll" data-target=".subnav" data-offset="50" class="error404">
+
+        <div class="boxed clearfix"> 
+            
+        
+                              <header class="container clearfix">
+            
+                
+                <div class="logo six columns">
+                    
+                                    
+                                        <h1><a href="../../../../../../../../www.danyduchaine.com/forum">Dany Duchaine<span>Premium WordPress Themes</span></a></h1>
+                                                            
+                </div>
+                
+                <div class="five columns">
+                    
+                                             
+                </div>
+                
+                <div class="five columns">
+
+                        <!-- Social Icons -->
+                    <div id="social">
+
+                                                                                                                             
+                    </div>
+                    <!-- // End Of Social Icons -->
+                   	
+                    
+                </div>
+            
+        </header>
+                      
+            <div class="container">
+
+                 
+                    <div class="tagline sixteen columns">
+                        
+                        
+                        
+                        
+                        
+                        <h4>If you need help with a theme, simply ask a question below.</h4>
+                        
+                                
+                    </div>
+
+                
+
+                 <nav class="main sixteen columns">
+
+                    <ul id="menu-menu" class="clearfix sf-menu"><li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../../../../../home/default.htm"><span class="title">Home</span><span class="description">The Beginning</span></a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../../../../../premium-themes/default.htm"><span class="title">Premium Themes</span><span class="description">Browse WP Themes</span></a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="../../../../../../../../www.danyduchaine.com/forum"><span class="title">Support Forum</span><span class="description">Get Help With Your Theme</span></a></li>
+</ul>
+                </nav>
+
+            
+               
+            
+
+
+
+</div>
+
+
+</div>
+
+        
+ <footer>
+            
+     
+       <div class="footer">
+                
+                 <ul class="widgets container unstyled">
+                    
+                     <li class="widget four columns"><div id="linkcat-2" class="widget_links"><h5>Useful Links</h5>
+	<ul class='xoxo blogroll'>
+<li><a href="../../../../../../../account/create">Create A New Account</a></li>
+<li><a href="../../../../../../../forum">Forum Homepage</a></li>
+<li><a href="../../../../../../../wp-login.php">Login to an Existing Account</a></li>
+<li><a href="../../../../../../../wp-login.php@action=lostpassword">Reset Password</a></li>
+<li><a href="../../../../../../../account/verify_purchase">Verify a New Purchase</a></li>
+
+	</ul>
+</div></li>
+<li class="widget four columns"><div id="dd_tweet_widget-2" class="dd_tweet_widget">
+<h5>My Tweets</h5>   <!-- Twitter Widgets -->
+                <div id="twitter-slides">
+                    
+                    <div class="slides_container">
+                        
+                         <!-- Twitter Item -->
+                        <div class="twitter-item active">
+                            
+                            <div class="twitter-meta clearfix">
+                                
+                                <div class="twitter-avatar">
+                                    
+                                       <a href="../../../../../../../../www.twitter.com/DDStudios"><img src="../../../../../../../../twitter.com/api/users/profile_image@screen_name=DDStudios" /></a>
+                                        
+                                </div>
+                                    
+                                <div class="twitter-info">
+                                    
+                                    <span class="testimonial-name">DDStudios</span>
+                                    <a href="../../../../../../../../www.twitter.com/DDStudios" class="testimonial-website"><span>Follow me on twitter</span></a>
+                                        
+                                </div>
+                                    
+                            </div>
+                                
+                            <div class="twitter-content clearfix">
+                              
+                                <div class="tweet"></div>    
+                                
+                            </div>
+                                
+                        </div>
+                        <!-- // End Of Twitter Item -->
+                            
+                    </div>
+                        
+                </div>
+                <!-- // End Of Twitter Widgets -->
+                
+   <script type='text/javascript'>
+       
+   jQuery(".tweet").tweet({
+            username: "DDStudios",
+            join_text: "",
+            count: 2,
+            auto_join_text_ed: "",
+            auto_join_text_ing: "",
+            auto_join_text_reply: "",
+            auto_join_text_url: "",
+            loading_text: "loading tweets..."
+        })
+
+</script>
+             
+                
+		</div></li><li class="widget four columns"><div id="envato_marketplace_items_widget-2" class="envato_marketplace_items_widget"><h5>Other Premium Themes</h5><ul id='envato-marketplace-items'>
+<li><a href="../../../../../../../../themeforest.net/item/fit-fitnessgym-html-theme/3339520" target="_blank" title="FIT - Fitness/Gym HTML Theme"><img src="../../../../../../../../3.s3.envato.com/files/39143993/80x80.jpg" alt="FIT - Fitness/Gym HTML Theme" height="80px" width="80px" /></a></li>
+<li><a href="../../../../../../../../themeforest.net/item/fit-fitnessgym-psd-theme/3285310" target="_blank" title="FIT - Fitness/Gym PSD Theme"><img src="../../../../../../../../2.s3.envato.com/files/38210440/80x80.png" alt="FIT - Fitness/Gym PSD Theme" height="80px" width="80px" /></a></li>
+<li><a href="../../../../../../../../themeforest.net/item/synapse-corporate-wordpress-theme/1470531" target="_blank" title="Synapse - Corporate WordPress Theme"><img src="../../../../../../../../0.s3.envato.com/files/26608541/80x80synapsewp.png" alt="Synapse - Corporate WordPress Theme" height="80px" width="80px" /></a></li>
+<li><a href="../../../../../../../../themeforest.net/item/fuel-responsive-html-theme/2030686" target="_blank" title="Fuel - Responsive HTML Theme"><img src="../../../../../../../../3.s3.envato.com/files/26608521/80x80fuelhtml.png" alt="Fuel - Responsive HTML Theme" height="80px" width="80px" /></a></li>
+<br class='clear' />
+</ul>
+</div></li><li class="widget four columns"><div id="text-4" class="widget_text"><h5>About Me</h5>			<div class="textwidget"><p>Hi! I'm Dany! I'm a web designer that makes site templates & Wordpress themes at ThemeForest. If you need help with a theme, simply ask a question in the forum above!</p>
+</div>
+		</div></li>                    
+                </ul>   
+                    
+                </div>
+     
+            <div class="small_footer">
+                
+                <div class="container">
+                    
+                    <div class="sixteen columns">
+                        
+                        <div class="small_left eight columns alpha">
+                        
+                            <p>Copyright © Dany Duchaine 2012. All rights reserved.</p>
+                        
+                    </div>
+                    
+                    <div class="small_right eight columns omega">
+                        
+                        <p>Follow me on : <a href="../../../../../../../../www.twitter.com/ddstudios">Twitter</a> | <a href="../../../../../../../../dribbble.com/ddstudios">Dribbble</a> | <a href="../../../../../../../../themeforest.net/user/DanyDuchaine">ThemeForest</a> </p>
+                        
+                    </div>
+                        
+                    </div>
+                    
+                </div>
+                            
+            </div>         
+
+        </footer>
+
+      		
+			<script type='text/javascript'>jQuery(document).ready(function(){ ahq.init(); });</script> 
+      
+  </body>
+  
+</html>
+
+
+
+
+
